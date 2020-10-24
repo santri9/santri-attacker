@@ -1,0 +1,42 @@
+ 6 commits
+Files
+Type
+Name
+Latest commit message
+Commit time
+core
+Init Commit
+4 years ago
+lib
+Init Commit
+4 years ago
+modules
+Init Commit
+4 years ago
+profiles
+Init Commit
+4 years ago
+tools
+Init Commit
+4 years ago
+.gitignore
+add gitignore file for log and pyc
+3 years ago
+ChangeLog
+Init Commit
+4 years ago
+LICENSE
+Init Commit
+4 years ago
+README.md
+Update README.md
+4 years ago
+contributors.txt
+Init Commit
+4 years ago
+weeman.py
+set executable rights on main py file
+4 years ago
+README.md
+
+
